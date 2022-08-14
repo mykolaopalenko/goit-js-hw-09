@@ -29,9 +29,3 @@ function onStopBtn() {
 startBtn.addEventListener('click', onStartBtn);
 
 stopBtn.addEventListener('click', onStopBtn);
-
-// document.addEventListener('keydown', (event) => {
-//    if (event.code === "Space") {
-//       onStartBtn();
-//    };
-// })
